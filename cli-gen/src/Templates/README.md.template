@@ -1,0 +1,10 @@
+# ${NAME}
+
+${DESCRIPTION}
+
+## Usage
+
+Run this tool directly from GitHub:
+
+```bash
+dotnet run --project https://github.com/yourusername/${NAME}
